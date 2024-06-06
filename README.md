@@ -1,4 +1,4 @@
-# NLP-Exploration-with-Hugging-Face-ModelsFace-Models
+#GenAI-with-Hugging-Face-ModelsFace-Models
 
 
 This project demonstrates the use of various Natural Language Processing (NLP) tools and libraries to interact with and leverage large language models (LLMs) available on the Hugging Face model hub. It includes functionalities for prompt-based interactions with custom templates, text generation tasks, and exploration of pre-trained NLP models.
